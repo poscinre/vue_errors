@@ -9,7 +9,9 @@
 문제는 내가 ref와 reactive를 사용했다는 것.
 
 <br>
-<mark> [해결] </mark>
+
+
+<mark> [해결 방법] </mark>
 
 computed로 바꾸고 return 문으로 변경하니까
 데이터가 반영되면서 잘 나타났다.
