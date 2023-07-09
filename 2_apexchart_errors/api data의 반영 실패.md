@@ -1,4 +1,4 @@
-# apexchart에서 api에 의해 불러온 data가 보이지 않을 경우
+# apexchart에서 api로 불러온 data가 보이지 않을 경우
 - API 함수안에서 할당하기
 - apexchart 변수들에 직접 할당하기
 <br>
